@@ -16,7 +16,7 @@ def multiply(a, b):
     """
     Return the product of a and b.
     """
-    return a*b
+    return (a*b)
 
 def divide(a, b):
     """
@@ -32,7 +32,7 @@ def power(a, b):
     """
     Return the result of raising a to the power of b.
     """
-    return a**b
+    return (a**b)
 
 def reverse_string(s):
     """
